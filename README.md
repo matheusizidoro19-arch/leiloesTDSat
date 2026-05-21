@@ -7,3 +7,4 @@ Sistema desenvolvido para gerenciamento de uma casa de leilões.
 - Java
 - MySQL
 - GitHub
+- Gitbash
